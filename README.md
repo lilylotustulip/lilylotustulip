@@ -12,7 +12,7 @@ since I am working with Linux I think being more comfortable with Linux is a mus
 
 
 ## Quote:
-# MIN-I-MAL-ISM:
+## MIN-I-MAL-ISM:
 the ability to simplify without losing any quality.
 
 
