@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Lotus.
 
-<!--
-**lilylotustulip/lilylotustulip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a self-taught developer, I dedicate some time upskilling in C++, by practicing basics exercises at my level.
+Here you can find some of these exercises:
+[cpp_lab](https://github.com/lilylotustulip/cpp_lab)
 
-Here are some ideas to get you started:
+## 🎯️goals:
+- have a good understanding of C++.
+- have a good understanding of the terminal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+since I am working with Linux I think being more comfortable with Linux is a must. 
+
+
+## Quote:
+# MIN-I-MAL-ISM:
+the ability to simplify without losing any quality.
+
+
