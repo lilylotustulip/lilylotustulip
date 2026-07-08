@@ -1,18 +1,13 @@
 ## Hi there 👋, I'm Lotus.
 
-As a self-taught developer, I dedicate some time upskilling in C++, by practicing basics exercises at my level.
-Here you can find some of these exercises:
-[cpp_lab](https://github.com/lilylotustulip/cpp_lab)
+I am a self-taught developer, I dedicate some time upskilling in some programming languages, building projects and trying to improve in general.
 
 ## 🎯️goals:
-- have a good understanding of C++.
-- have a good understanding of the terminal.
+- i like studying and learning about tech, as it automate and make some daily task easier, i study it to be able to make some algorithms, bots or something similar to help me with my studies and additional tasks.
 
-since I am working with Linux I think being more comfortable with Linux is a must. 
-
-
-## Quote:
-## MIN-I-MAL-ISM:
-the ability to simplify without losing any quality.
+## Details
+i study and explore multiple topics, to find which one i like the most.
+for example this summer, i was able to earn a cybersecurity certificate from Harvard's online course.
+Also did make an AI assistant woth a raspberry pi zero 2 W, with edge-ai. _you can find more info about the bot in this repository:_ (lilybot)[https://github.com/lilylotustulip/lilybot].
 
 
